@@ -1,0 +1,7 @@
+aws_access_key = "awsアクセスキー"
+aws_secret_key = "awsシークレットアクセスキー"
+aws_pem = "pemファイル名を指定"
+
+vpc_name = "vpc名"
+security_group_name = "security_group名"
+instance_name = "ec2インスタンス名"
